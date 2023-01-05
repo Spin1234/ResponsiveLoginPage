@@ -32,4 +32,4 @@ Step4
 At last save both files and the double click on index.html from your directory.
 
 
-![image](https://github.com/Spin1234/ResponsiveLoginPage/blob/main/railways.jpg)
+![image](https://github.com/Spin1234/ResponsiveLoginPage/blob/main/Screenshot%20(37).jpg)
