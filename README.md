@@ -29,7 +29,7 @@ Then copy the image railway.jpg in the same directory, where the index.html and 
 
 Step4
 
-At last save both files and the double click on index.html from your directory.
+At last save both files and then double click on index.html from your directory.
 
 
 ![image](https://github.com/Spin1234/ResponsiveLoginPage/blob/main/Screenshot%20(37).jpg)
